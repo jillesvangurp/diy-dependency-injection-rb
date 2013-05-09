@@ -1,7 +1,7 @@
 # diy-dependency-injection-rb
 
 
-Simple [http://misko.hevery.com/2010/05/26/do-it-yourself-dependency-injection/](DIY dependency injection) framework for Ruby that 
+Simple [DIY dependency injection](http://misko.hevery.com/2010/05/26/do-it-yourself-dependency-injection/) framework for Ruby that 
 
 * allows you to register any Ruby object with an application context and then refer to it by name 
 * can integrate a Java Spring Context as well. This is particularly useful if you have mixed Java and Jruby code and want to expose your Spring beans to a JRuby application.
